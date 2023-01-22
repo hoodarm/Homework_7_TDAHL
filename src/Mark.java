@@ -1,0 +1,4 @@
+enum Mark
+{
+    Nought, Cross
+}
